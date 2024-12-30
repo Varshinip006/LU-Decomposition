@@ -46,8 +46,8 @@ print(solution)
 ```
 
 ## Output:
-![exp 5 1 maths](https://github.com/user-attachments/assets/8c76325c-8217-4f07-b449-d58afef52050)
-![exp 5 2 maths](https://github.com/user-attachments/assets/92739d8d-4837-4191-80ad-23cc4430035f)
+![exp 5 1 maths](exp%205.1.maths.png)
+![exp 5 2 maths](exp%205.2.maths.png)
 
 
 
